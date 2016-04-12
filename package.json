@@ -91,7 +91,7 @@
     "inherits": "=2.0.1",
     "lodash": "=3.10.1",
     "sha512": "=0.0.1",
-    "stream": "0.0.2",
+    "stream-browserify": "^2.0.1",
     "url": "^0.11.0",
     "util": "^0.10.3",
     "vm-browserify": "0.0.4"
